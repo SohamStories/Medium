@@ -1,0 +1,7 @@
+name = "abc"
+compatibility_date = "2023-12-01"
+
+ [vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDgyYTI3ZmItMWJjMC00MTMxLThmNzItMDlhYjkzZmVkODY1IiwidGVuYW50X2lkIjoiNDZlY2FhYmY2NGE0YzFlZjQyYTFhNTdjMDc0MThmYjM0NjM4MWE3NjMxMWEyMzRiOTM1ZWJjNDM3N2QwMTI0ZSIsImludGVybmFsX3NlY3JldCI6ImNmZDdiNGY4LTFhYTEtNGFhZi1hYjBjLWNkZWU2ZmI3MDk4YSJ9.3_rlCHSYWGhOeKWqj3IV62IgFI8BKhEkiO6dPKeMfak"
+
+JWT_SECRET= "your_secret"
